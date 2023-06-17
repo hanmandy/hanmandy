@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hanmandy
+- 👀 I’m interested in git
+- 🌱 I’m currently learning git
